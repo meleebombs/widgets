@@ -36,8 +36,10 @@ Widgets/
 This is a **Widget Extension only** and cannot run independently.  
 To test or run the widget, integrate it into the main iOS app and launch from the main target.
 
-<img width="376" alt="image" src="https://github.com/user-attachments/assets/f1fc1c17-4609-473a-8d9e-6365f90387ee" />
-<img width="383" alt="image" src="https://github.com/user-attachments/assets/b38823db-7c69-4605-9bee-583e12b7f31f" />
+![Picsew_20250620001719-2](https://github.com/user-attachments/assets/7b7e610c-0082-49c1-a250-549c6938f63b)
+
+
+
 
 
 
