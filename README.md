@@ -35,3 +35,6 @@ Widgets/
 
 This is a **Widget Extension only** and cannot run independently.  
 To test or run the widget, integrate it into the main iOS app and launch from the main target.
+
+![6d98ad209376f53e92af36e25fbad03e](https://github.com/user-attachments/assets/81715517-5e59-464d-bedb-39dfe71e656b)
+
