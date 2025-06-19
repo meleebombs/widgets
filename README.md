@@ -36,5 +36,9 @@ Widgets/
 This is a **Widget Extension only** and cannot run independently.  
 To test or run the widget, integrate it into the main iOS app and launch from the main target.
 
-![6d98ad209376f53e92af36e25fbad03e](https://github.com/user-attachments/assets/81715517-5e59-464d-bedb-39dfe71e656b)
+<img width="376" alt="image" src="https://github.com/user-attachments/assets/f1fc1c17-4609-473a-8d9e-6365f90387ee" />
+<img width="383" alt="image" src="https://github.com/user-attachments/assets/b38823db-7c69-4605-9bee-583e12b7f31f" />
+
+
+
 
