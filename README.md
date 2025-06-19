@@ -18,17 +18,18 @@ The widget displays featured streamers, a quick access to search, and recharge o
 
 ## 📂 Project Structure
 
+```
 Widgets/
-├── WidgetsExtension/         # Widget target folder
-│   ├── Widgets.swift         # Widget configuration
-│   ├── Provider.swift        # Timeline provider
-│   ├── WidgetEntry.swift     # Widget data model
-│   ├── WidgetView.swift      # SwiftUI layout
-│   └── Assets.xcassets       # Widget assets
-├── App/                      # Main app (if present)
-├── Shared/                   # Shared models or utilities
-└── README.md                 # This file
-
+├── WidgetsExtension/
+│   ├── Widgets.swift
+│   ├── Provider.swift
+│   ├── WidgetEntry.swift
+│   ├── WidgetView.swift
+│   └── Assets.xcassets
+├── App/
+├── Shared/
+└── README.md
+```
 
 ## ⚠️ Note
 
